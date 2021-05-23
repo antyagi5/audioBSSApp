@@ -1,5 +1,4 @@
 import streamlit as st
-import io
 import numpy as np
 from sklearn.decomposition import FastICA
 import matplotlib.pyplot as plt
